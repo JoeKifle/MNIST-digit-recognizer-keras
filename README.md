@@ -10,4 +10,4 @@ To be updated as I go forward to the playlist
 
 # CREDIT
 
-All credit goes to **[SENTDEX](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)**. Thank you for creating such an amazing machine learning with keras and tensorlow playlist on YouTube
+All credit goes to [SENTDEX](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN). Thank you for creating such an amazing machine learning with keras and tensorlow playlist on YouTube
